@@ -295,3 +295,4 @@ This will use a snapshot of the legacy frontend preserved in the [ComfyUI Legacy
 
 [See this page for some recommendations](https://github.com/comfyanonymous/ComfyUI/wiki/Which-GPU-should-I-buy-for-ComfyUI)
 
+Start local server: python .\main.py --listen
